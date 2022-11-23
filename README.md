@@ -1,11 +1,10 @@
 # Olá, me chamo Márcia Henriques!  😄
 ## Bem vindo ao meu perfil GitHub 👋
 
-<img align="center" src="https://user-images.githubusercontent.com/103605697/196480655-b822e478-934b-48f2-b03c-1e178562b17e.png" width="400" height="600"/>  
+<img align="right" src="https://user-images.githubusercontent.com/103605697/196480655-b822e478-934b-48f2-b03c-1e178562b17e.png" width="300" height="500"/>  
 
-![Profile views](https://gpvc.arturio.dev/marciahenriquess)
 
-📚 Tenho 20 anos e sou estudante do 4° período de Engenharia de Computação na instituição IFF - Campos Centro.
+📚 Tenho 21 anos e sou estudante do 5° período de Engenharia de Computação na instituição IFF - Campos Centro.
 
 🔭 Atualmente estou trabalhando como Estagiária em DevSecOps na Compass UOL.  
 🔎 E Bolsista em Desenvolvimento de um aplicativo de Oportunidades IFF.  
